@@ -23,7 +23,7 @@
 
 
 
-<td>
+<td style="text-align: center">
 </br>
 
 📫  &nbsp; *How to reach me*
