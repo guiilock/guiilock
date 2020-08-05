@@ -29,11 +29,11 @@
 📫  &nbsp; *How to reach me*
 </br>
 <a href="https://www.linkedin.com/in/guilherme-nascimento-68409454/">
-<img height="50" width="200" src="https://img.shields.io/badge/Guilherme%20Alves-Linkedin-blue">
+<img height="30" width="200" src="https://img.shields.io/badge/Guilherme%20Alves-Linkedin-blue">
 </a>
 
 <a href="mailto:gklealves@gmail.com">
-<img height="50" width="200" src="https://img.shields.io/badge/Guilherme%20Alves-Gmail-red">
+<img height="30" width="200" src="https://img.shields.io/badge/Guilherme%20Alves-Gmail-red">
 </a>
 
 </td>
