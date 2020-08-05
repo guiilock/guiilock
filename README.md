@@ -9,7 +9,6 @@
 <td  style="text-align: center; border: 0">
 
 - 🚀  &nbsp; I'm constantly evolving.
-- 🌱  &nbsp; I’m currently learning all about JavaScript ecosystem.
 - :wink:  &nbsp; I'm looking help for evolve more and more.
 - 💬  &nbsp; Ask me about what you want to know.
 - 😄  &nbsp; Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
