@@ -31,6 +31,9 @@
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/guilherme-nascimento-68409454/">Guilherme Alves</a></div>
 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)Guilherme Nascimento](https://www.linkedin.com/)
+&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gklealves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gklealves@gmail.com)](mailto:gklealves@gmail.com)
 
 </td>
