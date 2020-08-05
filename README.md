@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/full-cycle-developer.jpg">
+<img src="">
 
 
 
-<h2 style="text-align: center;"> Hi there 👋 Gulherme coding here :computer:</h2>
+<h2 style="text-align: center;"> Hi there 👋 Guilherme coding here :computer:</h2>
 
 <table boder="0" style="border: 0">
 <tr  style="text-align: center; border: 0">
