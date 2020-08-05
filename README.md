@@ -23,17 +23,17 @@
 
 
 
-<td width="230px" style="text-align: center">
+<td width="230px" style="text-align: center;">
 </br>
 
 📫  &nbsp; *How to reach me*
 </br>
 <a href="https://www.linkedin.com/in/guilherme-nascimento-68409454/">
-<img src="https://img.shields.io/badge/Guilherme%20Alves-Linkedin-blue">
+<img width="200" src="https://img.shields.io/badge/Guilherme%20Alves-Linkedin-blue">
 </a>
 
 <a href="mailto:gklealves@gmail.com">
-<img src="https://img.shields.io/badge/Guilherme%20Alves-Gmail-red">
+<img width="200" src="https://img.shields.io/badge/Guilherme%20Alves-Gmail-red">
 </a>
 
 </td>
