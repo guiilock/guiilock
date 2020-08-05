@@ -17,7 +17,7 @@
 </td  style="text-align: center; border: 0">
 <td>
 
-<img width="auto" height="190px" src="https://raw.githubusercontent.com/RichardPinheiro/RichardPinheiro/master/developer2.gif">
+<img width="auto" height="190px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngio.com%2Fimages%2Fpng-a69477.html&psig=AOvVaw31VpVSIGvDyyyfFK2PzvRc&ust=1596724824931000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiY09WlhOsCFQAAAAAdAAAAABAD">
 
 </td>
 
