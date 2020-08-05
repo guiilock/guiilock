@@ -17,7 +17,7 @@
 </td  style="text-align: center; border: 0">
 <td>
 
-<img width="auto" height="190px" src="https://img.pngio.com/web-development-software-developer-mobile-app-development-programmer-designer-software-engineer-png-900_540.jpg">
+<img width="auto" height="190px" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif">
 
 </td>
 
