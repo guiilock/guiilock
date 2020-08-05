@@ -29,9 +29,9 @@
 📫  &nbsp; *How to reach me*
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/- Guilherme Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-nascimento-68409454/)](https://www.linkedin.com/in/guilherme-nascimento-68409454/)
+[![Linkedin Badge](https://img.shields.io/badge/- -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-nascimento-68409454/)](https://www.linkedin.com/in/guilherme-nascimento-68409454/)
 
-[![Gmail Badge](https://img.shields.io/badge/-Guilherme Nascimento-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gklealves@gmail.com)](mailto:gklealves@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gklealves@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gklealves@gmail.com)](mailto:gklealves@gmail.com)
 
 </td>
 
